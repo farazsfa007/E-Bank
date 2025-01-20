@@ -1,4 +1,11 @@
-The goal of this coding exam is to quickly get you off the ground with **Authentication**.
+- User credentials
+
+  ```text
+   User ID: 142420
+   PIN: 231225
+
+  ```
+
 
 ### Refer to the image below:
 
@@ -169,7 +176,3 @@ Returns a response based on the credentials provided
 - Roboto
 
 </details>
-
-> ### _Things to Keep in Mind_
->
-> - All components you implement should go in the `src/components` directory
